@@ -1,0 +1,22 @@
+{
+  "name": "felis",
+  "version": "1.0.0",
+  "description": "use chrome debugging protocol to connect to dev console",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgejincy/felis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/georgejincy/felis/issues"
+  },
+  "homepage": "https://github.com/georgejincy/felis#readme",
+  "dependencies": {
+    "chrome-remote-interface": "^0.25.5"
+  }
+}
